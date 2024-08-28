@@ -1,0 +1,1 @@
+for the api key go to api ninja and amke an account
