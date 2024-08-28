@@ -1,0 +1,7 @@
+#ignores the api key 
+
+api_key.py
+
+#other files
+*.pyc
+__pycache__/
